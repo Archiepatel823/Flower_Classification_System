@@ -66,5 +66,4 @@ The model is trained using transfer learning with MobileNetV2 and integrated wit
 ##  Author
 
 Archie Patel  
-B.Tech CSE (Data Science)  
 Machine Learning | Deep Learning | NLP | Flask | Python
